@@ -7,22 +7,19 @@
 
 ## Who I am
 
-*One or two sentences about your role and where you work. The agent uses this for register and framing.*
-
-**Example:**
-I'm a health policy reporter at a UK national paper. I write for a general audience but my readers expect more than press-release rewrites — they want to understand what a policy change means for them.
+*I'm an investigative and political correspondent covering Jewish issues for a UK Jewish newspaper. I write for a Jewish audience, but sometimes the general public also reads my work. My readers expect more than press-release rewrites - they want to understand what the political landscape means for the Jewish community, what matters to the Jewish community, and what stories affect the Jewish community.*
 
 ---
 
 ## My beat
 
-*What you cover, in your own words. Be specific — "health" is too broad; "NHS workforce, primary care reform, and pharma pricing" is the level of detail that helps.*
+*- Antisemitism (anti-Jewish sentiment) and anti-Zionism in UK local councils
+- Antisemitism and anti-Zionism in the UK national government
+- Antisemitism and anti-Zionism in UK political parties, including: the Labour Party, the Conservative Party, the Liberal Democrats, the Green Party, Reform UK, Restore Britain.
+- Policy that affects the Jewish community (Kosher meat / shahita / Jewish schools and education / antisemitism on campus / antisemitism in the NHS / foreign policy relating to Israel)
+- Significant Jewish figures in politics and references to their Jewish identity (Sarah Sackman, Lady Victoria Starmer, Lord Pickles, Richard Hermer etc) *
 
-**Example:**
-- NHS England policy and operations (workforce, waiting lists, primary care reform)
-- Pharmaceutical pricing and access (NICE decisions, drug shortages, pharma negotiations with DHSC)
-- Public health (vaccination uptake, screening programmes, health inequalities)
-- I do *not* cover: NHS clinical research, individual hospital trust-level scandals (unless national pattern), social care (separate beat).
+- I do *not* cover: Jewish communal news that has no national implications (eg: new President at Central United Synagogue).
 
 ---
 
@@ -31,11 +28,12 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 *The 3–5 stories or threads you're actively tracking this month. Update this every couple of weeks. This is the highest-signal section.*
 
 **Example:**
-1. **GP contract negotiations 2026** — talks broke down in March. Watching for return-to-table signals from BMA or DHSC.
-2. **NICE access reforms** — consultation closed in February. Expecting draft guidance late summer. Watching for leaks.
-3. **Workforce plan refresh** — promised for autumn. Watching for staffing data, royal college briefings, leaked drafts.
-4. **Weight-loss drug rollout** — NHS commissioning decisions on tirzepatide expansion. Story of the year if access widens.
-5. **Pharmacy First** — six months in. Watching for evaluation data, pharmacist union responses, GP pushback.
+1. **Antisemitism in the Green Party** — Numerous antisemitic local election candidates, some arrested, some expelled from the party. Watching to see which candidates get elected and if more antisemitic scandals break in the Green Party. 
+2. **Government antisemitism strategy** — Government announced new strategy for combating antisemitism in the wake of the Golders Green stabbing last week. Expecting more details from the Department of Education about how antisemitism is going to measured, also waiting on further details from Ofcom about antisemitic social media and TV channels, and the Charity Commission about Islamist preachers. Watching for leaks.
+3. **Legislation to proscribe Iranian-linked groups as terrorists** — promised IRGC proscription in next Parliament autumn, Harakat Ashab al-Yamin al-Islamia also expected to be banned. Hoping for more details on the timeline for this, and information about implication for law enforcement and foreign police.
+4. **Antisemitism in Reform UK** — Nigel Farage's Reform UK has been beset with issues of antisemitism and the far-right. Look out for Reform UK candidates who are elected who have made comments about Israel and the Jewish community. 
+5. **Icey relations between Israel and UK** — Starmer has yet to speak to Netanyhu. Watching as relations between Jerusalem and London continue to fray. Leaked intelligence about this. Information released about the interaction between the two countries at the highest level.
+6. **Human stories about the Jewish experience in the UK with wider political impact** — Members of the Jewish community who speak up about experiencing antisemitism, leaving the UK over antisemitism, ostracised at work, in NHS, schools etc. It is important that these stories have national impact beyond the human story - I need to be able to ask politicians about it.
 
 ---
 
@@ -44,11 +42,9 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 *Standing themes that are not story-specific but always worth flagging. Think: "if anything happens with X, I want to know."*
 
 **Example:**
-- New peer-reviewed research that contradicts current NHS policy
-- Whistleblower stories or leaked internal documents from DHSC, NHS England, or major royal colleges
-- International comparisons where the UK is suddenly an outlier (good or bad)
-- Anything involving named senior figures: [list 5–10 people you cover]
-- Patient-experience stories that contradict official data
+- UK-Israel relations
+- Whistleblower stories or leaked internal documents about antisemitism in state sector (NHS, schools, universities, DCMS, Arts Council, local government)
+- Anything involving named senior figures: [Richard Hermer, Sarach Sackman]
 
 ---
 
@@ -57,11 +53,11 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 *Be specific about what to filter out. The agent will cut these without asking.*
 
 **Example:**
-- Routine NHS press releases without policy substance
-- US health system stories unless directly relevant to UK debate
-- Wellness / consumer health / nutrition stories
-- Hospital league tables (not my beat)
-- Anything from clearly partisan health-policy think tanks unless they're breaking news, not opinion
+- Routine Jewish charity press releases without policy substance
+- US Jewish stories unless directly relevant to UK debate
+- Communal affairs or religious affairs unless they relate to national stories with political impact
+- Jewish school league tables (not my beat)
+- Anything from clearly partisan anti-Israel publications unless they're breaking news, not opinion
 
 ---
 
@@ -70,4 +66,4 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 *A sentence or two that helps the agent calibrate what's worth surfacing.*
 
 **Example:**
-My readers are educated generalists who read the paper for reliable analysis. They don't need basic explanations of how the NHS works. They do need clear framing of why a development matters and what it changes. They are sceptical of hype.
+My readers are educated Jewish Britons who read the paper for reliable analysis and news. They don't need basic explanations of Jewish issues or culture. They do need clear framing of why a development matters and what it changes. They are sceptical of hype. They are worried about growing antisemitism in the UK. They are pro-Israel.
